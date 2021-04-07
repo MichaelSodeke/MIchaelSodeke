@@ -44,7 +44,7 @@ The competition was a great way for me to improve my programming and network sec
 
 
 ## SKILLS
-<code><img height="50" width="30" src="https://seeklogo.com/images/U/unix-software-logo-EB78E0D731-seeklogo.com.jpg"></code>
+<code><img height="30" width="50" src="https://seeklogo.com/images/U/unix-software-logo-EB78E0D731-seeklogo.com.jpg"></code>
 <code><img height="50" src="https://brandeps.com/logo-download/D/Debian-logo-vector-01.svg"></code>
 <code><img height="50" src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg"></code>
 <code><img height="50" src="https://brandeps.com/logo-download/C/C-logo-vector-01.svg"></code>
