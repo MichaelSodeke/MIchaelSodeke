@@ -44,13 +44,14 @@ The competition was a great way for me to improve my programming and network sec
 
 
 ## SKILLS
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/latex.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/bash-1.svg"></code>
 <code><img height="50" src="https://brandeps.com/logo-download/D/Debian-logo-vector-01.svg"></code>
 <code><img height="50" src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg"></code>
 <code><img height="50" src="https://brandeps.com/logo-download/C/C-logo-vector-01.svg"></code>
 <code><img height="50" src="https://brandeps.com/logo-download/P/Python-logo-vector-01.svg"></code>
 <code><img height="50" src="https://brandeps.com/logo-download/S/SQLite-logo-vector-01.svg"></code>
 <code><img height="50" src="https://brandeps.com/logo-download/V/Vmware-logo-vector-01.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/latex.svg"></code>
 
 <!--
 # GIT STATS
