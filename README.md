@@ -51,8 +51,9 @@ The competition was a great way for me to improve my programming and network sec
 <code><img height="50" src="https://brandeps.com/logo-download/S/SQLite-logo-vector-01.svg"></code>
 <code><img height="50" src="https://brandeps.com/logo-download/V/Vmware-logo-vector-01.svg"></code>
 
-
+<!--
 # GIT STATS
 
 ![Michael's stats](https://github-readme-stats.vercel.app/api?username=MichaelSodeke&show_icons=true)
+-->
 
