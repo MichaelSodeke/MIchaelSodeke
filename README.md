@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 
 # ABOUT ME 
-I am a data analyst and aspiring quant persuing a bachelors degree in Computational Maths. I like to work with R, Python, and C++.
-I am interested in Linux distributions such as Ubuntu, Debian, Kali, and Arch. Also, I enjoy learning to code in assembly language (because why not).
-I am currently developing my skills in maths, computer science, finance and computer networking.
+I am a maths major specializing in computational maths, graduating in 2022.
+My aim is to apply this specialty to Data Science and the Financial Markets. In addition,
+my future goal is to work as a Quant Developer.
 
 
 ## SKILLS
