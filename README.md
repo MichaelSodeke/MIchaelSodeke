@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-# ABOUT ME 
+## ABOUT ME 
 I am a maths major specializing in computational maths, graduating in 2022.
 My aim is to apply this specialty to Data Science and the Financial Markets. In addition,
 my future goal is to work as a Quant Developer.
