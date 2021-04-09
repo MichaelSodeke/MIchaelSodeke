@@ -21,6 +21,18 @@ Here are some ideas to get you started:
 
 
 
+## SKILLS
+<code><img height="50" src="https://d33wubrfki0l68.cloudfront.net/a49c5f63d431650c696cfd10cb70c880726281df/c9f07/img/logo.png"></code>
+<code><img height="50" src="https://brandeps.com/logo-download/D/Debian-logo-vector-01.svg"></code>
+<code><img height="50" src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg"></code>
+<code><img height="50" src="https://brandeps.com/logo-download/C/C-logo-vector-01.svg"></code>
+<code><img height="50" src="https://brandeps.com/logo-download/P/Python-logo-vector-01.svg"></code>
+<code><img height="50" src="https://brandeps.com/logo-download/S/SQLite-logo-vector-01.svg"></code>
+<code><img height="50" src="https://brandeps.com/logo-download/V/Vmware-logo-vector-01.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/latex.svg"></code>
+
+
+
 ## ABOUT ME 
 I am a maths major specializing in computational maths, graduating in 2022.
 My aim is to apply this specialty to Data Science and the Financial Markets. In addition,
@@ -41,17 +53,6 @@ Investment Group where I was assigned to keep track of certain stocks held by th
 to news surrounding key economic sectors, and how they affected each other, was essential. In addition, I recently
 participated in a computer science competition called **PicoCTF** sponsored by *Carnegie Mellon University*.
 The competition was a great way for me to improve my programming and network security skills.
-
-
-## SKILLS
-<code><img height="50" src="https://d33wubrfki0l68.cloudfront.net/a49c5f63d431650c696cfd10cb70c880726281df/c9f07/img/logo.png"></code>
-<code><img height="50" src="https://brandeps.com/logo-download/D/Debian-logo-vector-01.svg"></code>
-<code><img height="50" src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg"></code>
-<code><img height="50" src="https://brandeps.com/logo-download/C/C-logo-vector-01.svg"></code>
-<code><img height="50" src="https://brandeps.com/logo-download/P/Python-logo-vector-01.svg"></code>
-<code><img height="50" src="https://brandeps.com/logo-download/S/SQLite-logo-vector-01.svg"></code>
-<code><img height="50" src="https://brandeps.com/logo-download/V/Vmware-logo-vector-01.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/latex.svg"></code>
 
 <!--
 # GIT STATS
