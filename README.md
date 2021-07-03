@@ -34,25 +34,32 @@ Here are some ideas to get you started:
 
 
 ## ABOUT ME 
-I am a maths major specializing in computational maths, graduating in 2022.
-My aim is to apply this specialty to Data Science and the Financial Markets. In addition,
-my future goal is to work as a Quant Developer.
+My name is Michael Sodeke. I am a maths major specializing in *Computational Maths*, graduating in 2022.
+My interests are in *Computer Science* and *Investment Banking*, which my math and coding skills are well
+suited for. In addition, my goal is to work as a *Quant Developer*.
 
-I chose **Data Science** as a career because I was interested in modeling complex
-systems: social, economic, biological, financial, etc. So I paid for and enrolled in Andrew Ng's *Stanford*
-Machine Learning Certification program, where I learned how to implement supervised and unsupervised machine learning
-algorithms, such as linear regression, logistic regression and nueral networks, as well as anomaly detection.
-The course was interesting and revealed how essential mathematics was in this field. However, I wanted to know
-if there was a relation between Data Science and Machine Learning. I later discovered the Data Science
-pipeline and how to implement it through the *Johns Hopkins University* Data Science Certification program.
-Through this program, I also discovered that Machine Learning was part of the pipeline, refered
-to as Predictive Analysis. During my free time, I participated in a volunteer program created by *NASA*
-called Disk Detective that involved analysing and classifying celestial objects to help scientists
-better understand planetary formation. Also, I interned as a Sector Analyst for the Davis
-Investment Group where I was assigned to keep track of certain stocks held by the firm. Paying close attention
-to news surrounding key economic sectors, and how they affected each other, was essential. In addition, I recently
-participated in a computer science competition called **PicoCTF** sponsored by *Carnegie Mellon University*.
-The competition was a great way for me to improve my programming and network security skills.
+In 2020 I paid for and enrolled in Andrew Ng’s **Stanford** *Machine Learning Certification program*, where
+I learned how to implement supervised and unsupervised machine learning algorithms, such as linear
+regression, logistic regression and nueral networks, as well as anomaly detection. The course was difficult
+and revealed how essential mathematics was in this field. This expereice further developed my interest in
+modeling complex systems: social, economic, biological, financial, etc. However, I was still confused about
+whether or not *Data Science* and *Machine Learning* were separate fields.
+
+Later on, I learned about the *Data Science pipeline* and its implementation through the **Johns Hopkins
+University** *Data Science Certification program*. Throughout this program, I discovered that Machine
+Learning was part of the pipeline, refered to as *Predictive Analysis*. Unfortunately, the instructors decided
+to use pre-made algorithms from ML libraries instead of showing how to build these same algorithms from
+scratch using math formulas in order to teach the course. Thus, I had to do extra work by searching online
+for pdf documents from Dartmouth, Stanford and MIT on how to build ML algortihms with math formulas.
+I was successful and later on passed the course.
+
+Also in 2020, I interned as a *Sector Analyst* for the **Davis Investment Group** where I was assigned to
+keep track of certain stocks held by the firm. Paying close attention to news surrounding key economic
+sectors, and how they affected each other, was essential.
+
+In addition, I participated in *Carnegie Mellon University’s* 2021 **PicoCTF** network security competition
+this Spring. The competition was a great way for me to improve my programming and ethical hacking skills.
+Unfortunately, I did not complete all the problems, but I am preparing for the next competition this Fall.
 
 <!--
 # GIT STATS
