@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 ## ABOUT ME 
 My name is Michael Sodeke. I am a maths major specializing in *Computational Maths*, graduating in 2022.
-My interests are in *Computer Science* and *Investment Banking*, which my math and coding skills are well
-suited for. In addition, my goal is to work as a *Quant Developer*.
+I am seeking for a role as a **Linux System Adminstrator**. My interests are in *Computer Science* and
+*Investment Banking*, and my goal is to work as a *Quant Developer*.
 
 In 2020 I paid for and enrolled in Andrew Ng’s **Stanford** *Machine Learning Certification program*, where
 I learned how to implement supervised and unsupervised machine learning algorithms, such as linear
